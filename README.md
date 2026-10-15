@@ -1,4 +1,4 @@
-# SemDSTN: A Semantic-Enhanced Dynamic Spatio-Temporal Network for Traffic Forecasting
+# SemTTA: Semantic-Enhanced Traffic Flow Forecasting with Test-Time Embedding Adaptation
 
 ---
 
